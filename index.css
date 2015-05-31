@@ -1,0 +1,14 @@
+body {
+ background-color: #000000;
+}
+
+#main-console{
+  font-family: "Cousine", Lucida, Courier;
+  font-size: 0.95em;
+  font-weight: bold;
+  color: #FFFFFF;
+  color: #00CC00;
+  background-color: #000000;
+  width: 75%;
+  height: 100%;
+}
